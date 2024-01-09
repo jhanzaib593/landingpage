@@ -1,0 +1,39 @@
+.header {
+  padding: 10px;
+  text-align: center;
+  /* height: 50px; */
+  /* line-height: 20px; */
+}
+.h-logo{
+    padding-top: 4px;
+    font-weight: 900;
+    font-size: 18px;
+    color: #023048;
+
+}
+.header_nav {
+  text-decoration: none;
+  display: flex;
+  gap: 10px;
+  padding-top: 5px;
+}
+.header_nav a {
+    color: #023048 !important;
+  font-weight: 700;
+}
+.h_btn {
+  display: flex;
+  gap: 10px;
+}
+.btn_si {
+  border: none;
+  background-color: transparent;
+  font-weight: 700;
+}
+.btn_re{
+    background-color: transparent;
+    border-color: #cd8c4f;
+    color: #cd8c4f;
+    border-radius: 50px;
+    font-weight: 700;
+}
